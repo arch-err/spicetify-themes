@@ -10,4 +10,5 @@ mv spicetify-themes $XDG_CONFIG_HOME/spicetify/Themes/
 
 spicetify config current_theme archerr-text
 spicetify config color_scheme ice
+spicetify apply
 ```
